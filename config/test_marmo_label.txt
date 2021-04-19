@@ -1,0 +1,5 @@
+../label/marmo_pvel_iz_155_label2.bin
+../label/marmo_pvel_iz_156_label2.bin
+../label/marmo_pvel_iz_157_label2.bin
+../label/marmo_pvel_iz_158_label2.bin
+../label/marmo_pvel_iz_159_label2.bin 

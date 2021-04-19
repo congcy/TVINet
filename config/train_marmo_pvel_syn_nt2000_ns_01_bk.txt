@@ -1,0 +1,5 @@
+../data/marmo_pvel_iz_150_anomaly2_syn_nt2000_ns_1.dat
+../data/marmo_pvel_iz_151_anomaly2_syn_nt2000_ns_1.dat
+../data/marmo_pvel_iz_152_anomaly2_syn_nt2000_ns_1.dat
+../data/marmo_pvel_iz_153_anomaly2_syn_nt2000_ns_1.dat
+../data/marmo_pvel_iz_154_anomaly2_syn_nt2000_ns_1.dat 
